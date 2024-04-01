@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577265573681",
+    "project_id": "ewj-account-manage",
+    "storage_bucket": "ewj-account-manage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577265573681:android:a2fc3b7936547b44c01a10",
+        "android_client_info": {
+          "package_name": "com.example.ewj_account_manage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNrhShmOAut0RUGOy10cPmx-TGON15LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
